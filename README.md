@@ -23,10 +23,9 @@ Actualmente curso la especialidad de **Mecanización y Construcciones Rurales**.
 
 ### 📂 Proyectos en Desarrollo
 
-* **[Diseño de Red de Riego Localizado](https://github.com/inescabreragacia3/Proyecto-Riego):** Dimensionado hidráulico. Memoria técnica en Overleaf.
+* **[Diseño de Red de Riego Localizado](https://github.com/inescabreragarcia3/diseno-red-riego-localizado):** Dimensionado hidráulico. Memoria técnica en Overleaf.
 
 ---
-
 ### 📫 Contacto y Redes
 * 📞 **Teléfono:** +34 662245614
 * 📧 **Email:** inescabreragarcia3@gmail.com
