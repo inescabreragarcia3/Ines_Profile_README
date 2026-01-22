@@ -23,8 +23,9 @@ Actualmente curso la especialidad de **Mecanización y Construcciones Rurales**.
 
 ### 📂 Proyectos en Desarrollo
 
-> *Aquí irás enlazando tus repositorios conforme los crees:*
+> ### 📂 Proyectos en Desarrollo
 
+* **[Diseño de Red de Riego Localizado](https://github.com/Ines_Cabrera_Garcia_ITA/Proyecto_Riego):** Dimensionado hidráulico. Memoria técnica en Overleaf.
 ---
 
 ### 📫 Contacto y Redes
