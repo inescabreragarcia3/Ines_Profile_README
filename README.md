@@ -1,32 +1,40 @@
 # ¡Hola! Soy [Tu Nombre y Apellidos] 👋
-## Estudiante de 3er año de Ingeniería Agrícola
+## 🏗️ Futuro Ingeniero Agrícola | Estudiante de 3er Año
 
-Soy un futuro ingeniero apasionado por la **agricultura de precisión**, la **gestión de recursos hídricos** y la optimización de procesos mediante herramientas digitales. Mi enfoque se centra en combinar el conocimiento agronómico tradicional con soluciones tecnológicas modernas.
-
----
-
-### 🛠️ Herramientas y Capacidades Técnicas
-
-* **Sistemas de Información Geográfica (SIG):** Manejo avanzado de **QGIS** para análisis territorial, mapas de cultivos y gestión de cuencas.
-* **Hidráulica y Riego:** Modelado de necesidades hídricas con **CropWat** y diseño de redes de riego.
-* **Diseño Técnico:** Elaboración de planos detallados y estructuras rurales en **AutoCAD**.
-* **Análisis de Datos:** Gestión de datos de campo, balances económicos y optimización mediante **Excel avanzado** (Tablas dinámicas y Macros).
-* **Documentación Técnica:** Redacción de proyectos e informes de alta calidad con **LaTeX (Overleaf)**.
+Soy estudiante de Ingeniería Agrícola apasionado por la **gestión eficiente del agua** y el **diseño rural**. Me enfoco en utilizar herramientas digitales para optimizar los recursos en el sector agroalimentario, desde el diseño de redes de riego hasta el análisis territorial.
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🛠️ Mis Capacidades Técnicas
 
-* **[Nombre de tu Proyecto 1]**: (Ejemplo) Análisis de suelos mediante QGIS para optimización de abonado. [Ver repositorio →]
-* **[Nombre de tu Proyecto 2]**: (Ejemplo) Cálculo de necesidades de riego para un cultivo de cítricos en zona semiárida. [Ver repositorio →]
+#### 💧 Hidráulica y Gestión de Riegos
+* **EPANET:** Modelado y simulación de redes de agua a presión (caudales, presiones y pérdidas de carga).
+* **CropWat:** Cálculo de necesidades hídricas, evapotranspiración (ETc) y programación de riegos.
+
+#### 🌍 Cartografía y Diseño
+* **QGIS:** Análisis espacial, gestión de capas vectoriales/raster y elaboración de mapas temáticos.
+* **AutoCAD:** Diseño de planos técnicos, estructuras rurales y esquemas de redes hidráulicas.
+
+#### 📊 Análisis y Documentación
+* **Excel:** Gestión de datos de campo, cálculos de ingeniería y automatización de tablas.
+* **LaTeX (Overleaf):** Redacción de memorias técnicas e informes con alta calidad editorial.
 
 ---
 
-### 📫 Cómo contactarme
+### 📂 Proyectos en Desarrollo
 
-* 💼 **LinkedIn:** [Enlace a tu perfil de LinkedIn]
-* 📧 **Email:** [Tu correo electrónico profesional]
-* 📍 **Ubicación:** [Tu ciudad/país]
+> *Aquí irás enlazando tus repositorios conforme los crees:*
+
+* **[Diseño de Red de Riego](https://github.com/tu-usuario/tu-repositorio-riego):** Integración de cálculos en CropWat y simulación hidráulica en EPANET.
+* **[Análisis SIG](https://github.com/tu-usuario/tu-repositorio-qgis):** Gestión de parcelario y estudio de pendientes mediante QGIS.
 
 ---
-> "La ingeniería es el arte de aplicar conocimientos científicos a la gestión de la naturaleza para el beneficio de la sociedad."
+
+### 📫 Contacto y Redes
+
+* 💼 **LinkedIn:** [Enlace a tu perfil profesional]
+* 📧 **Email:** [Tu correo de contacto]
+* 📍 **Ubicación:** [Tu ciudad / Provincia]
+
+---
+*"La ingeniería consiste en transformar el entorno respetando sus límites."*
